@@ -13,9 +13,9 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:ellipsize="end"
-        android:padding="14sp"
+        android:padding="16dp"
         android:gravity="center_horizontal"
         android:text="深圳市"
         android:textColor="#404040"
-        android:textSize="20sp" />
+        android:textSize="14sp" />
 </LinearLayout>
