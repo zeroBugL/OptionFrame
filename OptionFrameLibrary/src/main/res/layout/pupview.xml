@@ -22,11 +22,11 @@
         android:layout_alignParentBottom="true"
         android:ellipsize="end"
         android:gravity="center_horizontal"
-        android:padding="14sp"
+        android:padding="16dp"
         android:text="取消"
         android:background="@drawable/linearlayoutbtn"
         android:textColor="#404040"
-        android:textSize="20sp" />
+        android:textSize="14sp" />
 
     <View
         android:id="@+id/view"
