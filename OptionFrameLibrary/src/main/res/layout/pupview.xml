@@ -22,7 +22,7 @@
         android:layout_alignParentBottom="true"
         android:ellipsize="end"
         android:gravity="center_horizontal"
-        android:padding="16dp"
+        android:padding="14sp"
         android:text="取消"
         android:background="@drawable/linearlayoutbtn"
         android:textColor="#404040"
